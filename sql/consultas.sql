@@ -12,3 +12,6 @@ FROM vendas;
 SELECT SUM(Quantity) AS quantidade_vendida
 FROM vendas;
 
+-- TOTAL DE PEDIDOS
+SELECT COUNT(DISTINCT "Order ID") AS total_pedidos
+FROM vendas;
