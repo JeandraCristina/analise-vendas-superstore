@@ -15,3 +15,12 @@ FROM vendas;
 -- TOTAL DE PEDIDOS
 SELECT COUNT(DISTINCT "Order ID") AS total_pedidos
 FROM vendas;
+
+-- GERANDO INSIGHTS
+
+-- Top 10 produtos por receita
+SELECT "Product Name",
+ROUND(SUM(Sales),2) AS receita
+FROM vendas
+GROUP BY "Product Name"
+ORDER BY receita DESC LIMIT 10;
