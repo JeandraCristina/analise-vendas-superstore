@@ -32,3 +32,9 @@ FROM vendas
 GROUP BY "Customer Name"
 ORDER BY receita DESC LIMIT 10;
 
+-- Receita por categoria
+SELECT Category,
+round(sum(Sales),2) AS receita
+FROM vendas
+GROUP BY Category
+ORDER BY receita DESC;
