@@ -24,3 +24,11 @@ ROUND(SUM(Sales),2) AS receita
 FROM vendas
 GROUP BY "Product Name"
 ORDER BY receita DESC LIMIT 10;
+
+-- Top 10 clientes por receita
+SELECT "Customer Name",
+ROUND(SUM(Sales),2) AS receita
+FROM vendas
+GROUP BY "Customer Name"
+ORDER BY receita DESC LIMIT 10;
+
