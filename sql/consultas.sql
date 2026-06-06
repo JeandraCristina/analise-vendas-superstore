@@ -38,3 +38,14 @@ round(sum(Sales),2) AS receita
 FROM vendas
 GROUP BY Category
 ORDER BY receita DESC;
+
+-- Análise Temporal
+-- As vendas estão crescendo ou diminuindo ao longo do tempo?
+SELECT strftime('%Y-%m',"Order Date") AS mes,
+ROUND(SUM(Sales),2) AS receita
+FROM vendas
+GROUP BY mes
+ORDER BY mES;
+-- OU
+SELECT "Order Date", Sales
+FROM vendas LIMIT 5;
