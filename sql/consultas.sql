@@ -56,3 +56,11 @@ ROUND(SUM(Profit),2) AS lucro
 FROM vendas
 GROUP BY "Product Name"
 ORDER BY lucro DESC LIMIT 10;
+
+-- Quais produtos dão prejuízos?
+SELECT "Product Name",
+ROUND(SUM(Profit),2) AS lucro
+FROM vendas
+GROUP BY "Product Name"
+ORDER BY lucro ASC LIMIT 10;
+
