@@ -49,3 +49,10 @@ ORDER BY mES;
 -- OU
 SELECT "Order Date", Sales
 FROM vendas LIMIT 5;
+
+-- Quais produtos são mais lucrativos?
+SELECT "Product Name",
+ROUND(SUM(Profit),2) AS lucro
+FROM vendas
+GROUP BY "Product Name"
+ORDER BY lucro DESC LIMIT 10;
