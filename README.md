@@ -88,5 +88,5 @@ Jeandra Cristina Ribeiro
 
 Profissional em transição para a área de Dados, desenvolvendo projetos voltados para Análise de Dados, Business Intelligence e Visualização de Dados.
 
-
+⭐ Caso tenha gostado deste projeto, fique à vontade para explorar os demais trabalhos disponíveis em meu perfil.
 
