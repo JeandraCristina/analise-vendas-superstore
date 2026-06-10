@@ -77,8 +77,8 @@ Dashboard-Vendas-PowerBI/
 -Comportamento das vendas ao longo do tempo.    
 
 🚀 Próximos Passos
-Implementação de análises preditivas.
-Inclusão de novos indicadores de negócio.
-Publicação do dashboard no Power BI Service.
-Criação de versão mobile do relatório.
+-Implementação de análises preditivas.
+-Inclusão de novos indicadores de negócio.
+-Publicação do dashboard no Power BI Service.
+-Criação de versão mobile do relatório.
 
