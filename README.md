@@ -48,3 +48,14 @@ Principais análises:
 -Lucro por categoria
 -Quantidade vendida por produto
 
+3. Evolução Temporal
+
+Análise da evolução dos resultados ao longo do tempo.
+
+Principais análises:
+
+Receita mensal
+Lucro mensal
+Tendência de crescimento
+Comparações por período
+
