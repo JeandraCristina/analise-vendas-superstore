@@ -36,3 +36,15 @@ Apresenta uma visão geral do negócio por meio dos principais indicadores e gr�
 -KPIs de desempenho
 -Filtros interativos
 
+2. Análise de Produtos
+
+Permite identificar os produtos e categorias com melhor desempenho.
+
+Principais análises:
+
+Top produtos por receita
+Top produtos por lucro
+Receita por categoria
+Lucro por categoria
+Quantidade vendida por produto
+
