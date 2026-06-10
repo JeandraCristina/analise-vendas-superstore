@@ -30,9 +30,9 @@ O dashboard foi construído no Power BI e permite acompanhar indicadores estrat�
 
 Apresenta uma visão geral do negócio por meio dos principais indicadores e gráficos estratégicos:
 
-Receita por Região
-Receita por Categoria
-Receita por Segmento
-KPIs de desempenho
-Filtros interativos
+-Receita por Região
+-Receita por Categoria
+-Receita por Segmento
+-KPIs de desempenho
+-Filtros interativos
 
