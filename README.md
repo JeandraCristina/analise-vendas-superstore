@@ -20,8 +20,8 @@ O dashboard foi construído no Power BI e permite acompanhar indicadores estrat�
 -GitHub
 
 📈 Indicadores Principais (KPIs)
-Receita Total
-Lucro Total
-Quantidade Vendida
-Total de Pedidos
+-Receita Total
+-Lucro Total
+-Quantidade Vendida
+-Total de Pedidos
 
