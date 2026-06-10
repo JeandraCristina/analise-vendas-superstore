@@ -82,3 +82,11 @@ Dashboard-Vendas-PowerBI/
 -Publicação do dashboard no Power BI Service.
 -Criação de versão mobile do relatório.
 
+👩‍💻 Autora
+
+Jeandra Cristina Ribeiro
+
+Profissional em transição para a área de Dados, desenvolvendo projetos voltados para Análise de Dados, Business Intelligence e Visualização de Dados.
+
+
+
