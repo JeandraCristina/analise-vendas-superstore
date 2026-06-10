@@ -1,22 +1,6 @@
+📊 Dashboard Executivo de Vendas - Power BI
+📌 Sobre o Projeto
 
-# Análise de Vendas - Superstore
+Este projeto foi desenvolvido com o objetivo de analisar o desempenho comercial de uma empresa fictícia utilizando o conjunto de dados Sample Superstore.
 
-## Objetivo
-
-Projeto desenvolvido para praticar análise de dados utilizando SQL e Power BI.
-
-## Ferramentas Utilizadas
-
-- SQLite
-- SQL
-- Power BI
-- GitHub
-
-## Dataset
-
-Sample Superstore Dataset
-
-## Status
-
-🚧 Em desenvolvimento
 
