@@ -42,9 +42,9 @@ Permite identificar os produtos e categorias com melhor desempenho.
 
 Principais análises:
 
-Top produtos por receita
-Top produtos por lucro
-Receita por categoria
-Lucro por categoria
-Quantidade vendida por produto
+-Top produtos por receita
+-Top produtos por lucro
+-Receita por categoria
+-Lucro por categoria
+-Quantidade vendida por produto
 
