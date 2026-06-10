@@ -54,8 +54,8 @@ Análise da evolução dos resultados ao longo do tempo.
 
 Principais análises:
 
-Receita mensal
-Lucro mensal
-Tendência de crescimento
-Comparações por período
+-Receita mensal
+-Lucro mensal
+-Tendência de crescimento
+-Comparações por período
 
