@@ -13,9 +13,9 @@ O dashboard foi construído no Power BI e permite acompanhar indicadores estrat�
 -Apoiar a tomada de decisões baseada em dados.
 
 🛠️ Ferramentas Utilizadas
-Power BI Desktop
-Power Query
-DAX (Data Analysis Expressions)
-Microsoft Excel
-GitHub
+-Power BI Desktop
+-Power Query
+-DAX (Data Analysis Expressions)
+-Microsoft Excel
+-GitHub
 
