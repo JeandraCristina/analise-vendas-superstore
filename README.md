@@ -70,3 +70,9 @@ Dashboard-Vendas-PowerBI/
     ├── analise_produtos.png
     └── evolucao_temporal.png
 
+🔍 Principais Insights
+Identificação das regiões com maior participação na receita.
+Categorias mais relevantes para o faturamento.
+Segmentos com maior potencial de crescimento.
+Comportamento das vendas ao longo do tempo.    
+
