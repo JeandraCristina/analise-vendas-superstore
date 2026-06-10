@@ -59,3 +59,14 @@ Principais análises:
 -Tendência de crescimento
 -Comparações por período
 
+📂 Estrutura do Projeto
+Dashboard-Vendas-PowerBI/
+│
+├── Dashboard_Vendas.pbix
+├── Sample_Superstore.xlsx
+├── README.md
+└── imagens/
+    ├── visao_executiva.png
+    ├── analise_produtos.png
+    └── evolucao_temporal.png
+
